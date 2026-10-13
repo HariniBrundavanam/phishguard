@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI — Phishing URL Detection",
+  "description": "Cybersecurity & Machine Learning application for phishing URL detection using Standard, Ridge, and Lasso Logistic Regression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
